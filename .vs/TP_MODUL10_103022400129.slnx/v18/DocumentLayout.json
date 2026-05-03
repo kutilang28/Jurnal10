@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\TP_MODUL10_103022400129\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|d:\\c#\\tp_modul10_103022400129\\tp_modul10_103022400129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|solutionrelative:tp_modul10_103022400129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|d:\\c#\\tp_modul10_103022400129\\tp_modul10_103022400129\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|solutionrelative:tp_modul10_103022400129\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|d:\\c#\\tp_modul10_103022400129\\tp_modul10_103022400129\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|solutionrelative:tp_modul10_103022400129\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|d:\\c#\\tp_modul10_103022400129\\tp_modul10_103022400129\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|solutionrelative:tp_modul10_103022400129\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|d:\\c#\\tp_modul10_103022400129\\tp_modul10_103022400129\\tp_modul10_103022400129.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|solutionrelative:tp_modul10_103022400129\\tp_modul10_103022400129.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|d:\\c#\\tp_modul10_103022400129\\tp_modul10_103022400129\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9306D0A4-49CA-4969-B604-D719738FDF71}|TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj|solutionrelative:tp_modul10_103022400129\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400129\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TP_MODUL10_103022400129\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-03T18:30:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400129\\Program.cs",
+              "ToolTip": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Program.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400129\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:30:50.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400129\\appsettings.Development.json",
+              "ToolTip": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\appsettings.Development.json",
+              "RelativeToolTip": "TP_MODUL10_103022400129\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-03T18:30:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TP_MODUL10_103022400129",
+              "DocumentMoniker": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj",
+              "ToolTip": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj",
+              "RelativeToolTip": "TP_MODUL10_103022400129\\TP_MODUL10_103022400129.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-03T18:30:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400129\\Controllers\\FilmController.cs",
+              "ToolTip": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400129\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:14:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Film.cs",
+              "DocumentMoniker": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Film.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400129\\Film.cs",
+              "ToolTip": "D:\\C#\\TP_MODUL10_103022400129\\TP_MODUL10_103022400129\\Film.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400129\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:07:18.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
